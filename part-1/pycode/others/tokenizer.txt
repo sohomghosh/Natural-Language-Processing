@@ -1,0 +1,32 @@
+>>> para = "Hello World. It's good to see you. Thanks for buying this 
+book."
+>>> from nltk.tokenize import sent_tokenize
+>>> sent_tokenize(para)
+
+
+
+>>> from nltk.tokenize import word_tokenize
+>>> word_tokenize('Hello World.')
+['Hello', 'World', '.']
+
+
+
+
+>>> from nltk.tokenize import TreebankWordTokenizer
+>>> tokenizer = TreebankWordTokenizer()
+>>> tokenizer.tokenize('Hello World.')
+['Hello', 'World', '.']
+
+
+>>> from nltk.tokenize import RegexpTokenizer
+>>> tokenizer = RegexpTokenizer("[\w']+")
+>>> tokenizer.tokenize("Can't is a contraction.")
+["Can't", 'is', 'a', 'contraction'
+
+
+
+>>> from nltk.tokenize import regexp_tokenize
+>>> regexp_tokenize("Can't is a contraction.", "[\w']+")
+["Can't", 'is', 'a', 'contraction']
+
+

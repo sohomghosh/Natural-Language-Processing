@@ -1,0 +1,2 @@
+for one sentence:-
+score/(no of words after removing stop words)*5

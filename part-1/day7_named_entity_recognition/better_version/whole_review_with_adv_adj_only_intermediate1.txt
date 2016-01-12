@@ -1,0 +1,12 @@
+(S
+(NE
+phone/NN
+is/VBZ
+the/DT
+best/JJS
+phone/NN
+u/NN
+can/MD
+get/VB
+in/IN
+market/NN)

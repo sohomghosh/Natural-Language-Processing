@@ -1,0 +1,884 @@
+(S
+  (NE Moto/NNP)
+  E/NNP
+  best/JJS
+  Phone/NNP
+  for/IN
+  the/DT
+  (NE Price/NNP)
+  -/:
+  (NE Moto/NNP)
+  finally/RB
+  understands/VBZ
+  indian/JJ
+  market/NN)(S
+  (NE MotoE/NNP)
+  best/JJS
+  among/IN
+  class/NN
+  and/CC
+  worth/NN
+  your/PRP$
+  money/NN)(S Best/JJS Android/NNP Phone/NNP in/IN this/DT range/NN)(S
+  (NE Whatta/NNP)
+  Phone!!/NNP
+  Love/NNP
+  it!!/NNP
+  Grab/NNP
+  it/PRP
+  ASAP!!/-NONE-)(S (NE Excellent/NNP Phone/NNP) /Good/NNP Call/NNP Volume/NNP)(S (NE SMALL/JJ) PACKAGED/VBN (NE BOMB/NNP) .../:)(S
+  A/DT
+  Good/NNP
+  Budget/NNP
+  Android/NNP
+  Dual/NNP
+  SIM/NNP
+  Phone/NNP
+  by/IN
+  Samsung./NNP)(S
+  A/DT
+  Good/NNP
+  Budget/NNP
+  Android/NNP
+  Dual/NNP
+  SIM/NNP
+  Phone/NNP
+  by/IN
+  Samsung./NNP)(S THE/DT BEST/JJS IN/NNP ITS/NNP RANGE.../NNP)(S
+  A/DT
+  good/JJ
+  phone/NN
+  under/IN
+  10k/CD
+  but/CC
+  strech/JJ
+  your/PRP$
+  budget/NN
+  little/RB
+  &/CC
+  go/VB
+  for/IN
+  (NE Moto/NNP)
+  G/NNP)(S (NE Average/JJ) smartphone/NN)(S Too/RB good/JJ phone/NN for/IN price/NN around/IN 9K/CD ../:)(S Satisfacory/NNP)(S
+  (NE Great/NNP)
+  value/NN
+  for/IN
+  money/NN
+  and/CC
+  no/DT
+  fuss/NN
+  phone/NN)(S Best/JJS phone/NN of/IN (NE Samsung/NNP) under/IN 9k/CD)(S
+  (NE Excellent/NNP Budget/NNP Android/NNP Phone/NNP)
+  with/IN
+  1080p/CD
+  playback/NN
+  capability/NN)(S (NE Good/NNP) enough/RB for/IN an/DT average/JJ user/NN)(S Decent/NNP phone/NN for/IN the/DT price/NN)(S (NE Good/NNP Budget/NNP Phone/NNP) Within/NNP 10k/CD)(S (NE Nice/NNP Product/NNP) under/IN This/DT price/NN Tag/NNP)(S
+  Best/JJS
+  (NE Entry/NNP Level/NNP Smartphone/NNP)
+  with/IN
+  (NE Dual/NNP)
+  SIM/NNP
+  Support/NNP)(S A/DT solid/JJ phone!/NN)(S
+  I/PRP
+  love/VBP
+  my/PRP$
+  (NE Samsung/NNP)
+  galaxy/NN
+  S/NNP
+  duos/NNS
+  2/CD
+  S7582/CD)(S
+  what/WP
+  else/RB
+  you/PRP
+  want/VBP
+  in/IN
+  10k?/CD
+  perfect/NN
+  phone/NN)(S Best/JJS Phone/NNP in/IN this/DT range/NN Hands/VBZ down/IN)(S
+  You/PRP
+  will/MD
+  be/VB
+  most/RBS
+  happy/JJ
+  looking/NN
+  at/IN
+  your/PRP$
+  pocket/NN)(S excellent../NNP)(S
+  bole/NN
+  to/TO
+  ekdum/NN
+  mastt.....service/NN
+  v/NN
+  aur/NN
+  handset/NN
+  v/NN
+  !!/.)(S A/DT NICE/NNP MOBILE/NNP FOR/NNP THIS/NNP PRICE/NNP)(S (NE Samsung/NNP Galaxy/NNP) S/NNP Duos/NNP 2!/CD Nice...../NNP)(S Decent/NNP phone/NN for/IN the/DT price/NN)(S (NE Awesome/NNP) Phone.../NNP Great/NNP value...!!/NNP)(S the/DT best/JJS phone/NN)(S samsung/NN galaxy/NN s/NNS duos/NNS)(S A/DT (NE Perfect/NNP Start/NNP))(S
+  (NE Nice/NNP Phone/NNP)
+  but/CC
+  price/NN
+  is/VBZ
+  in/IN
+  a/DT
+  bit/NN
+  higher/RBR
+  side/NN)(S (NE Upgraded/JJ) and/CC now/RB Awesome/NNP)(S (NE Battery/NNP) Sucks,/NNP Else/NNP going/VBG on/IN good/JJ)(S (NE Good/NNP) device/NN for/IN the/DT price/NN paid/VBD)(S (NE Excellent/NNP Entry/NNP) level/NN Smartphone/NNP)(S
+  (NE Worth/NNP)
+  every/DT
+  rupee/NN
+  I/PRP
+  spent/VBD
+  on/IN
+  this/DT
+  phone/NN)(S (NE MIDDLE/NNP) CLASS/NNP SMARTPHONE/NNP)(S Decent/NNP phone/NN for/IN 10k/CD)(S (NE GOOD/NNP) PHONE/NNP)(S best/JJS mobile/JJ around/NN 10,000/CD rs/NNS)(S (NE Great/NNP Entry/NNP Level/NNP Andriod/NNP))(S Best/JJS Budget/NNP)(S This/DT is/VBZ an/DT excellent/NN entry/NN level/NN phone../NNP)(S overall/JJ experience/NN while/IN buying/NN t/NN product/NN)(S Almost/RB on/IN par/NN with/IN (NE Galaxy/NNP S2/NNP))(S (NE Excellent/NNP Phone/NNP))(S It's/NNS a/DT Steal/NNP at/IN Rs.8525/-/NNP)(S (NE Samsung/NNP) galaxy/NN s/VBZ duos/NNS 2/CD review/NN)(S Can't/RB say/VBP good;/-NONE- it/PRP can/MD be/VB better/JJR)(S Another/DT Useless/NNP Ripoff/NNP from/IN (NE Samsung/NNP))(S
+  (NE Slow/NNP Apps/NNP With/NNP Poor/NNP Battery/NNP Back/NNP)
+  Up,/NNP
+  Samsung/NNP
+  Galaxy/NNP
+  S/NNP
+  Duos/NNP
+  2/CD
+  Fails/NNS
+  To/TO
+  (NE Impress/NNP))(S
+  (NE Samsung/NNP Galaxy/NNP)
+  S/NNP
+  Duos/NNP
+  2/CD
+  Fails/NNS
+  To/TO
+  Deliver/NNP
+  The/DT
+  Best/NNP)(S
+  good/JJ
+  phone/NN
+  in/IN
+  this/DT
+  range/NN
+  s/VBZ
+  dous/JJ
+  2/CD
+  7582/CD)(S (NE Excellent/NNP Phone/NNP) -/: (NE Value/NNP) for/IN Money/NNP)(S
+  Does/VBZ
+  what/WP
+  you/PRP
+  need/VBP
+  on/IN
+  a/DT
+  daily/JJ
+  basis/NN
+  in/IN
+  an/DT
+  android/JJ
+  phone/NN
+  and/CC
+  does/VBZ
+  it/PRP
+  pretty/RB
+  well/RB)(S improvement/NN on/IN galaxy/NN s/NNS duos/NNS)(S (NE Very/NNP) good/VBD smartphone/NN for/IN bigginers/NNS)(S
+  (NE Samsung/NNP Galaxy/NNP)
+  S/NNP
+  Duos/NNP
+  2/CD
+  With/NNP
+  Touch/NNP
+  Screen/NNP
+  And/CC
+  (NE Free/NNP Apps/NNP Fails/NNP To/NNP Gain/NNP Confidence/NNP))(S too/RB good/JJ)(S (NE Awesome/NNP) smart/NN phone/NN :)/:)(S
+  (NE Good/NNP)
+  phone(Grand/NNP
+  pa/NN
+  of/IN
+  all/DT
+  smart/NN
+  phones)/NN
+  in/IN
+  average/JJ
+  budget/NN)(S superfast/NN delivery/NN)(S nice/NN product/NN)(S (NE Excellent/NNP) experience/NN so/IN far/RB)(S low/JJ end/NN mobile/JJ with/IN (NE GLONASS/NNP))(S (NE Good/NNP Phone/NNP))(S (NE Awesome/NNP) phone/NN and/CC value/NN for/IN money../NNP)(S
+  (NE Good/NNP Phone/NNP)
+  for/IN
+  the/DT
+  price/NN
+  but/CC
+  delivery/NN
+  was/VBD
+  bad/JJ)(S (NE Great/NNP Phone/NNP) at/IN (NE Reasonable/NNP) Price/NNP)(S (NE Nice/NNP) phone/NN to/TO have/VB)(S
+  best/JJS
+  ever/RB
+  mobile/JJ
+  which/WDT
+  have/VBP
+  top/JJ
+  specifications/NNS
+  at/IN
+  lowest/JJS
+  price/NN
+  range/NN)(S (NE Awesome/NNP) phone...awesome/JJ price...!/NN)(S very/RB very/RB good/JJ)(S (NE Happy/NNP) with/IN the/DT purchase/NN)(S
+  (NE Samsung/NNP Galaxy/NNP)
+  S/NNP
+  Duos/NNP
+  2:/CD
+  The/NNP
+  (NE Biggest/NNP Snag/NNP))(S
+  (NE Samsung/NNP Galaxy/NNP)
+  S/NNP
+  Duos/NNP
+  2/CD
+  (NE S7582/NNP Review/NNP)
+  !/.)(S Excellent/NNP product/NN)(S (NE Worth/NNP) buying./NNP)(S Excellent/NNP product/NN from/IN (NE Samsung/NNP))(S A/DT great/JJ buy/NN)(S worth/NN for/IN its/PRP$ price/NN)(S (NE Good/NNP) value/NN for/IN money/NN)(S
+  Ur/NNP
+  search/NN
+  is/VBZ
+  over...close/JJ
+  ur/NN
+  eyes/NNS
+  n/VBP
+  buy/NN
+  it/PRP)(S
+  Amazing/VBG
+  partnership/NN
+  -/:
+  (NE Samsung/NNP)
+  and/CC
+  (NE Flipkart/NNP)
+  !!/NNP)(S
+  (NE Good/NNP Phone/NNP)
+  and/CC
+  (NE VFM/NNP)
+  product/NN
+  from/IN
+  (NE Samsung/NNP))(S The/DT best/JJS under/IN Rs.11000//JJ)(S good/JJ to/TO samsung/JJ)(S (NE Smart/NNP) cell/VBD in/IN 10k/CD)(S (NE Awesome/NNP Phone/NNP) at/IN (NE Great/NNP) Price/NNP)(S (NE Good/NNP Phone/NNP) with/IN some/DT ???/.)(S (NE Awesome/NNP Deal/NNP) for/IN this/DT great/JJ phone/NN)(S (NE Good/NNP) phone/NN)(S
+  (NE Samsung/NNP Galaxy/NNP)
+  S/NNP
+  Duos/NNP
+  2:/CD
+  The/NNP
+  Unbelievably/NNP
+  Low/NNP
+  Performance/NNP
+  Phone/NNP)(S
+  (NE Great/NNP Phone/NNP Samsung/NNP Galaxy/NNP)
+  S/NNP
+  Duos/NNP
+  2/CD
+  !!/CD)(S
+  (NE Good/NNP Branded/NNP)
+  phone/NN
+  in/IN
+  this/DT
+  price/NN
+  range/NN
+  !!/.)(S
+  It/PRP
+  is/VBZ
+  a/DT
+  (NE Value/NNP For/NNP)
+  MONEY/NNP
+  Deal!!/NNP
+  (/NNP
+  For/NNP
+  8.5k/CD
+  this/DT
+  is/VBZ
+  (NE THE/NNP BEST/NNP)
+  BET/NNP
+  !!!)/NNP)(S (NE Excellent/NNP Mobile/NNP))(S
+  Yeah...its/NNS
+  the/DT
+  one/CD
+  for/IN
+  all/DT
+  your/PRP$
+  basic/JJ
+  needs/NNS
+  and/CC
+  superb/VB
+  mobility.../NNP)(S Best/JJS phone/NN under/IN 10000/CD)(S (NE Nice/NNP) mobile/VBD)(S
+  THE/DT
+  BEST/JJS
+  (NE PHONE/NNP)
+  (NE SAMSUNG/NNP)
+  HAD/NNP
+  OFFERED/NNP
+  IN/NNP
+  THIS/NNP
+  RANGE/NNP)(S Decent/NNP looking/NN entry/NN level/NN phone/NN)(S (NE Good/NNP Mobile/NNP))(S (NE AweSome/NN To/TO Use/NNP))(S Best/JJS phone/NN under/IN Rs/NNP 10,000/CD)(S (NE Excellent/NNP Smart/NNP) phone/NN @/: 10k/CD Range/NNP)(S good/JJ phone/NN)(S
+  (NE Samsung/NNP)
+  S/NNP
+  Duos/NNP
+  2/CD
+  S7582-This/NNP
+  is/VBZ
+  an/DT
+  excellent/NN
+  smartphone,Awesome/NN
+  Product,Best/NN
+  (NE Android/NNP Phone/NNP)
+  in/IN
+  this/DT
+  range/NN)(S Best/JJS Mobile/NNP phone/NN in/IN its/PRP$ budget./NNP)(S Amazing/VBG product/NN from/IN samsung/JJ)(S (NE Awsme/NNP Gadget/NNP) In/NNP Best/NNP Price/NNP)(S owwsome/NN price/NN owwsome/NN device/NN)(S Awesome!!!!!!......../NNP)(S
+  The/DT
+  best/JJS
+  features/NNS
+  you/PRP
+  will/MD
+  get/VB
+  at/IN
+  these/DT
+  price./NNP)(S awesome/NN phone/NN)(S
+  (NE NICE/NN MOBILE/NNP)
+  AT/NNP
+  (NE COMPARATIVELY/NNP)
+  AFFORDABLE/NNP
+  BUDGET../NNP)(S (NE Very/NNP) good/VBD product./NNP)(S (NE Awesome/NNP) phone/NN grab/NN it!!!!!!!!/NN)(S (NE Good/NNP) display/NN and/CC good/JJ in/IN photo/NN capture/NN)(S (NE Awesome/NNP Phone/NNP) by/IN (NE Samsung/NNP))(S Best/JJS phone/NN at/IN best/JJS online/NN price.../NNP)(S (NE Perfect/NNP) size/VBP ,/, perfect/NN phone/NN)(S (NE Awesome/NNP Mobile/NNP))(S (NE Nice/NNP) budget/NN phone/NN)(S
+  The/DT
+  best/JJS
+  features/NNS
+  you/PRP
+  will/MD
+  get/VB
+  at/IN
+  these/DT
+  price./NNP)(S (NE Great/NNP Phone/NNP) for/IN (NE Middle/NNP) range/NN)(S (NE Fantastic/JJ) simply/RB Super/NNP)(S
+  Decent/NNP
+  phone/NN
+  with/IN
+  respect/NN
+  to/TO
+  the/DT
+  price/NN
+  segment/NN)(S S/NNP duos/NNS 2/CD @/CD 8829..Best/CD in/IN its/PRP$ Class/NNP)(S excellent/NN phone/NN just/RB amazing/VBG)(S (NE Awesome/NNP Experience/NNP))(S (NE Fantastic/JJ) phone/NN)(S (NE Awesome/NNP Tablet/NNP))(S Best/JJS Tablet/NNP for/IN Price/NNP Paid/NNP)(S (NE Perfect/NNP) for/IN general/JJ use/NN)(S
+  (NE Good/NNP)
+  Tablet./NNP
+  Nexus7/NNP
+  32GB/CD
+  (NE WiFi/NNP)
+  Only./NNP)(S value/NN for/IN money/NN product/NN)(S (NE Good/NNP Tablet/NNP) for/IN it's/NNP price/NN)(S (NE Absolute/NNP) VFM/NNP)(S (NE Greatest/NNP Buy/NNP) ever!!/NNP)(S
+  (NE Bought/NNP)
+  this/DT
+  after/IN
+  quite/RB
+  a/DT
+  lot/NN
+  of/IN
+  research/NN)(S OMG.../NNP NEXUS/NNP)(S (NE Awesome/NNP Tablet/NNP) with/IN (NE Awesome/NNP) Price!!!/NNP)(S Nexus/NNP 7/CD My/NNP review/NN after/IN 2/CD month/NN usage/NN)(S So/IN (NE farGreat/NNP) going/VBG)(S Best/JJS tablet/NN in/IN this/DT price/NN range/NN !!/.)(S (NE Perfect/NNP) for/IN precise/NN usage/NN)(S Its/PRP$ good.../NNP)(S (NE Quality/NN) assured/VBD !!!/CD)(S
+  The/DT
+  best/JJS
+  tablet/NN
+  available/JJ
+  at/IN
+  this/DT
+  price./NNP
+  Period./NNP)(S
+  (NE Flipkart/NNP)
+  replaced/VBD
+  my/PRP$
+  Nexus/NNP
+  7/CD
+  with/IN
+  a/DT
+  brand/NN
+  new/JJ
+  one/CD)(S
+  Nexus/NNP
+  7/CD
+  :/:
+  Solid/NNP
+  specs/NNS
+  for/IN
+  a/DT
+  low/JJ
+  price/NN)(S (NE Value/NNP) for/IN money/NN)(S More/JJR about/IN the/DT service/NN than/IN the/DT product/NN)(S (NE Great/NNP Buy/NNP) -/: (NE Very/NNP Satisfied/NNP))(S
+  (NE Awesome/NNP)
+  Tablet-/NNP
+  Complete/NNP
+  value/NN
+  for/IN
+  money!!/NN)(S (NE AWESOME/NN Product/NN) for/IN (NE Amazing/NNP) price./NNP)(S
+  To/TO
+  Buy/NNP
+  Or/CC
+  Not/RB
+  To/TO
+  Buy/VB
+  Is/NNP
+  Not/NNP
+  The/NNP
+  Question?/NNP)(S
+  (NE Instant/NNP Delivery/NNP)
+  |/NNP
+  Best/NNP
+  Deal/NNP
+  |/NNP
+  Great/NNP
+  package/NN
+  and/CC
+  product/NN)(S Amazing/VBG Nexus/NNP 7/CD !/.)(S The/DT best/JJS out/RP there!/-NONE-)(S
+  (NE Great/NNP Product/NNP)
+  -/:
+  (NE Best/NNP Tablet/NNP)
+  for/IN
+  this/DT
+  price./NNP)(S (NE Awesome/NNP Tablet/NNP))(S (NE Low/NNP) price/NN high/JJ performance/NN gaming/VBG device/NN)(S (NE Great/NNP) buy...go/NNP for/IN it.../NNP)(S
+  [flipkart/NN
+  got/VBD
+  faulty/NN
+  stock/NN
+  for/IN
+  this/DT
+  device]Overall/JJ
+  mixed/VBN
+  experience/NN
+  so/IN
+  far/RB)(S (NE Superb/NNP Product/NNP) at/IN (NE Amazing/NNP) Price/NNP)(S (NE MONSTER/NN) GAMER:-*/-NONE-)(S
+  (NE MONSTER/NN)
+  GRAPHICS,/NN
+  32GB,/CD
+  (NE VALUE/NNP FOR/NNP)
+  MONEY/NNP)(S
+  BEST/JJS
+  product-but/JJ
+  no/DT
+  repair/NN
+  parts/NNS
+  avaible/JJ
+  after/IN
+  warranty/NN)(S AMAZING..!!/NN)(S (NE Decent/NNP) tablet/VBD with/IN quite/JJ few/JJ glitches/NNS)(S Amazing/VBG Product/NN !!/.)(S Best/JJS tablet/NN for/IN the/DT price/NN range!/NN)(S (NE Superbbb/NNP Tablet/NNP) ..../NNP)(S (NE Super/NNP) Bargain!/NNP)(S Best/JJS Deal/NNP)(S (NE Good/NNP) tablet/VBD with/IN some/DT minor/JJ issues/NNS)(S Small/JJ yet/RB Powerful/NNP)(S
+  (NE Nice/NNP)
+  and/CC
+  (NE Fast/NNP)
+  -/:
+  Delivers/NNP
+  what/WP
+  it/PRP
+  promises/VBZ)(S The/DT Best/NNP of/IN (NE Google/NNP))(S way/NN to/TO go/VB flipkart!!/JJ)(S BEST/JJS DECISION/NN EVARRRrrrrrrrrrrrrrrrrrrrrrrr/NNP)(S (NE AWESOME/NN) product/NN)(S Amazing/VBG (NE Gadget/NNP) for/IN the/DT price!/NN)(S
+  (NE Great/NNP)
+  Device,But/CC
+  choose/VB
+  the/DT
+  16/CD
+  GB/NNP
+  variety/NN)(S Now/RB that/DT is/VBZ SPEED!/NNP)(S Best/JJS Value/NNP for/IN Money/NNP)(S The/DT best/JJS thing/NN ever/RB made!/JJ)(S (NE Great/NNP) for/IN the/DT price/NN)(S
+  Best/JJS
+  Tablet/NNP
+  with/IN
+  (NE Unmatched/NNP)
+  Price!!!/NNP
+  Happy/NNP
+  Buyer.../NNP)(S Its/PRP$ Google!!!/JJ)(S Its/PRP$ Google/NNP and/CC cheap/VB)(S
+  What/WP
+  a/DT
+  Product!!!!!!/JJ
+  Hats/NNPS
+  off/IN
+  to/TO
+  (NE Google/NNP))(S (NE Fantastic/JJ) product/NN at/IN great/JJ price./NNP)(S Best/JJS Tablet/NNP for/IN 10-15k/CD price/NN range/NN !/.)(S (NE Great/NNP) product,/NNP gets/VBZ the/DT latest/JJS update/NN)(S
+  (NE Very/NNP Practical/NNP Tablet/NNP)
+  at/IN
+  a/DT
+  reasonable/JJ
+  price/NN
+  !/.)(S (NE Good/NNP) piece/NN)(S (NE Excellent/NNP) tablet/VBD at/IN this/DT price/NN)(S Simply/RB (NE Awesome/NNP) -/: (NE Value/NNP) for/IN money!/NNP)(S
+  (NE Awesome/NNP)
+  Tablet..Excellent/JJ
+  Support/NNP
+  from/IN
+  Flipkart..!!!/NNP)(S (NE Excellent/NNP) Product!/NNP)(S (NE Nice/NNP) tablet/VBD)(S (NE Long/JJ Live/NNP Google/NNP))(S Best/JJS Value/NNP for/IN Money/NNP)(S awesome/NN nexus/VBZ experience/NN)(S Hat's/NNS off/IN to/TO you/PRP google/VB)(S
+  hello/NN
+  guys/NNS
+  this/DT
+  is/VBZ
+  the/DT
+  best/JJS
+  tablet/NN
+  ever/RB
+  thnk/NN
+  u/NN
+  flipkart/NN)(S (NE Awesome/NNP) tab/NN at/IN small/JJ price..../NNP)(S (NE Good/NNP) tablet/VBD for/IN the/DT price/NN)(S A/DT must/MD have/VB for/IN tab/NN lovers/NNS)(S (NE Excellent/NNP Flipkart/NNP) Service...../NNP)(S good/JJ buy/NN)(S
+  THE/DT
+  BEST/JJS
+  OF/IN
+  THE/DT
+  (NE LOT/NNP)
+  AT/NNP
+  ITS/NNP
+  PRICE/NNP)(S (NE Absolute/NNP) bang/NN for/IN the/DT buck/NN)(S An/DT amazing/NN product/NN @/: 11K/CD)(S (NE Need/NNP) to/TO have/VB one/CD)(S (NE Nexus/NNP Nexus/NNP Nexus/NNP))(S The/DT best/JJS a/DT tablet/NN can/MD get....../NNP)(S (NE Awesome/NNP) product/NN in/IN 10k/CD price/NN range/NN)(S A/DT great/JJ Tab/NNP for/IN 11k./CD)(S
+  simply/RB
+  awesome/VBD
+  product/NN
+  on/IN
+  such/JJ
+  a/DT
+  low/JJ
+  price/NN)(S (NE Very/NNP) good/VBD)(S It/PRP delivers/VBZ everything/VBG It/PRP promises./NNP)(S Still/RB a/DT great/JJ tablet/NN for/IN its/PRP$ price/NN)(S (NE Very/NNP) nice/NN tablet/VBD)(S Best/JJS of/IN the/DT lot/NN (NE Budget/NNP) tablet/NN)(S Best/JJS 7"tab/CD for/IN beginners/NNS)(S (NE Mini/NNP Beast/NNP))(S Useful/NNP 7/CD Inch/NNP Tablet/NNP)(S
+  Amazing/VBG
+  Experience,/NN
+  (NE Worth/NNP)
+  Money,/NNP
+  Must/NNP
+  Buy/NNP)(S good/JJ buy/NN)(S (NE Good/NNP) product/NN)(S nexus/NN is/VBZ cool/JJ)(S (NE Fantastic/JJ) tablet/NN at/IN fantastic/JJ price/NN)(S Simply/RB Awesome/NNP)(S
+  (NE Google/NNP)
+  Nexus/NNP
+  7/CD
+  tablet/NN
+  --value/JJ
+  for/IN
+  money/NN)(S Best/JJS value/NN for/IN money/NN tablet/NN)(S Simply/RB the/DT best/JJS)(S Excellent/NNP product/NN)(S
+  (NE Awesome/NNP Product/NNP)
+  with/IN
+  a/DT
+  customer/NN
+  centric/NN
+  services/NNS
+  by/IN
+  flipkart/NN)(S It's/NNS a/DT steal/NN at/IN 12k!/CD)(S It's/NNS a/DT steal/NN at/IN 12k!/CD)(S Its/PRP$ a/DT very/RB good/JJ tablet/NN)(S (NE Great/NNP Value/NNP) for/IN Money!/NNP)(S Really/RB good/JJ)(S
+  (NE Forget/NN)
+  other/JJ
+  shitty/NN
+  tablets/NNS
+  get/VBP
+  the/DT
+  nexus/NN
+  !!!/.)(S BETTER/JJR THAN/IN THE/DT BEST!!!!!/NN)(S
+  11000/CD
+  out/IN
+  of/IN
+  100/CD
+  to/TO
+  1st/CD
+  GEN/NNP
+  NEXUS/NNP
+  7./NNP)(S What/WP A/DT (NE Great/NNP) Tablet......!!!/NNP)(S (NE Very/NNP) good/VBD tablet/NN)(S
+  (NE Slim/NNP)
+  and/CC
+  (NE Silky/NNP Soft/NNP Touch/NNP)
+  !...Very/NNP
+  smooth!/NNP)(S (NE Great/NNP) product.../NNP)(S
+  (NE Good/NNP)
+  value/NN
+  for/IN
+  money/NN
+  though/IN
+  a/DT
+  rear/NN
+  camera/NN
+  could/MD
+  have/VB
+  been/VBN
+  included/VBN)(S (NE Great/NNP Tablet/NNP))(S
+  (NE Great/NNP)
+  Product,/NNP
+  An/NNP
+  alternative/NN
+  for/IN
+  a/DT
+  netbook/NN)(S Satisfied/NNP with/IN the/DT product./NNP)(S Really../NNP Wow!/NNP Realy/NNP Awesome/NNP Tab!/NNP)(S Best/JJS Tablet/NNP for/IN its/PRP$ amazing/NN price/NN)(S worthy/JJ of/IN my/PRP$ money....!!!!!!/NN)(S /NN)(S Dr/NNP P/NNP Vivek/NNP)(S 30/CD Jan/NNP 2014/CD)(S certified/VBD buyer/NN)(S
+  (NE Google/NNP)
+  Nexus/NNP
+  7/CD
+  2012/CD
+  Tablet/NNP
+  best/JJS
+  place/NN
+  to/TO
+  buy/VB
+  flipkart/NN
+  ,best/JJS
+  tab/NN
+  to/TO
+  enjoy/VB
+  nexus/NN
+  ,a/-NONE-
+  huge/JJ
+  success/NN
+  :)/:)(S (NE Nexus/NNP) ...the/NNP tablet/NN to/TO own/VB)(S Sensible/JJ product/NN)(S (NE Perefct/NNP Tablet/NNP))(S (NE VERY/NNP) GOOD/NNP HARDWARE/NNP)(S Best/JJS all/DT in/IN one/CD without/IN calling/NN tab/NN)(S A/DT (NE STAR/NN) PRO-duct!!!!/NN)(S best/JJS Gadget/NNP for/IN money!/NNP)(S Most/JJS bang/JJ for/IN your/PRP$ buck!!/NN)(S I/PRP LOVE/VBP (NE OLD/NNP) GOLD/NNP)(S (NE AMMMAAZING/NN) Product!!/NN)(S (NE Nice/NNP) Tablet,/NNP good/VBD performance/NN)(S Awstruck!/NN)(S Best/JJS value/NN for/IN money/NN tablet/NN !!!!/.)(S (NE Pure/NN Gold/NNP))(S Fully/RB Satisfied/VBN :)/-NONE-)(S Simply/RB wonderful/JJ)(S Amazing/VBG piece/NN of/IN device/NN)(S (NE Nice/NNP) one./NNP No/NNP problem/NN at/IN all/DT)(S
+  (NE WONDERFUL/NNP)
+  (NE NEXUS/NNP AND/NNP)
+  (NE BULLET/NNP)
+  TYPE/NNP
+  DELIVERY/NNP)(S (NE Very/NNP Good/NNP) tablet/NN)(S (NE Power/NN) packed,/NN value/NN for/IN money/NN performer/NN)(S Best/JJS for/IN first/RB timers./NNP)(S (NE Decent/NNP) performance!/NNP)(S (NE Fab/NNP Product/NNP))(S best/JJS deal/NN)(S (NE Superb/NNP) tab/NN just/RB go/VBP for/IN it/PRP :-)/:)(S (NE Nice/NNP) product/NN)(S very/RB good/JJ product...with/JJ this/DT price/NN range./NNP)(S
+  (NE Excellent/NNP Tablet/NNP Best/NNP)
+  in/IN
+  the/DT
+  price/NN
+  range/NN)(S
+  really/RB
+  happy/JJ
+  with/IN
+  it,!/JJ
+  in/IN
+  spite/NN
+  it/PRP
+  being/VBG
+  released/VBN
+  2/CD
+  years/NNS
+  ago!/-NONE-)(S (NE Great/NNP Tablet/NNP Great/NNP) Price/NNP)(S (NE Paisa/NNP) vasool/NN)(S Overall/JJ a/DT good/JJ buy/NN .../:)(S (NE Great/NNP) buy/NN hurry/NN up../NNP)(S
+  The/DT
+  laptop/NN
+  is/VBZ
+  very/RB
+  good/JJ
+  in/IN
+  its/PRP$
+  range/NN
+  and/CC
+  a/DT
+  highest/NN
+  configuration/NN
+  you/PRP
+  get/VBP
+  in/IN
+  this/DT
+  much/JJ
+  prize/NN)(S
+  (NE Value/NNP For/NNP Money/NNP)
+  (3rd/NNP
+  Gen/NNP
+  i3/NNP
+  Cheapest)/NNP)(S
+  (NE VERY/NNP)
+  GOOD/NNP
+  LUCKING,/NNP
+  GOOD/NNP
+  WORKING/NNP
+  &/CC
+  (NE VALUE/NNP FOR/NNP)
+  COST/NNP)(S (NE Excellent/NNP Product/NNP) and/CC service/NN)(S
+  Best/JJS
+  Laptop/NNP
+  in/IN
+  the/DT
+  price/NN
+  but/CC
+  issues/NNS
+  with/IN
+  warranty/NN
+  provided/VBN
+  by/IN
+  (NE DELL/NNP))(S (NE Budget/NN) laptop....this/NN is/VBZ it!/JJ)(S great/JJ packaging/NN and/CC delivery/NN by/IN flip/NN cart/NN)(S very/RB good/JJ budget/NN laptop/NN)(S EXCELLENT........./NNP)(S (NE Good/NNP Product/NNP) and/CC (NE Good/NNP) service/NN)(S
+  As/IN
+  always...job/JJ
+  well/NN
+  done/NN
+  by/IN
+  (NE Flipkart/NNP)
+  :)/NNP)(S
+  (NE Superb/NNP)
+  lapy/NN
+  -/:
+  Feels/NNP
+  no/DT
+  less/JJR
+  than/IN
+  i5/NNP)(S (NE Laptop/NNP) is/VBZ really/RB good.../NNP)(S (NE Awesome/NNP) laptop/VBP at/IN cheap/NN price./NNP)(S
+  (NE Nice/NNP)
+  product/NN
+  excillent/NN
+  service/NN
+  by/IN
+  flipkart/NN)(S
+  (NE Awesome/NNP)
+  Product/NNP
+  but/CC
+  (NE Poor/NNP Delivery/NNP Service/NNP)
+  by/IN
+  (NE Ecart/NNP))(S
+  (NE Value/NNP)
+  for/IN
+  Money/NNP
+  until/IN
+  you/PRP
+  handle/VBP
+  with/IN
+  care./NNP)(S My/PRP$ best/JJS Gift/NNP)(S (NE Good/NNP Product/NNP))(S (NE Better/NNP) than/IN the/DT best/JJS)(S best/JJS laptop/NN)(S Tremendously/RB Satisfied/VBN)(S you/PRP get/VBP what/WP you/PRP pay/VBP for/IN)(S (NE Good/NNP) configuration/NN at/IN a/DT good/JJ price/NN)(S
+  BEST/JJS
+  is/VBZ
+  the/DT
+  single/JJ
+  wordto/NN
+  describe/NN
+  this/DT
+  laptop/NN)(S awesome/NN laptop/NN)(S Comfortable/JJ business/NN laptop/NN)(S (NE Flipkart/NNP) service/NN is/VBZ best/JJS in/IN (NE India/NNP))(S (NE Awesome/NNP) delivery/NN and/CC nice/NN product/NN)(S (NE Lovin/NNP) IT!!!!/NNP)(S +ve/JJ)(S powerful/JJ as/IN the/DT latitude/NN the/DT Vostro/NNP 2520/CD)(S (NE Worthy/NNP Laptop/NNP))(S (NE Value/NNP) for/IN money/NN good/NN for/IN regular/JJ use/NN)(S (NE Worst/NNP) investment/NN)(S (NE Gr8/NNP) product/NN if/IN bought/NN @25K/NN)(S Best/JJS Deal/NNP With/NNP Flipkart/NNP)(S (NE Budget/NN Laptop/NNP))(S (NE Workhorse/NNP) for/IN a/DT (NE Linux/NNP Shop/NNP))(S (NE Real/NNP) value/NN for/IN money/NN)(S (NE Very/NNP Good/NNP) Laptop-Good/NNP Performance/NNP)(S
+  (NE Worh/NNP)
+  for/IN
+  money/NN
+  -/:
+  Excellent/NNP
+  product/NN
+  -/:
+  Prompt/NNP
+  delivery/NN)(S Best/JJS (NE Budget/NNP Laptop/NNP))(S (NE Good/NNP) Product./NNP Delivered/NNP in/IN time/NN)(S (NE Good/NNP Laptop/NNP) at/IN (NE Reasonable/NNP) Price/NNP)(S (NE Good/NNP Product/NNP))(S (NE Very/NNP) helpful/JJ and/CC full/JJ supportive/JJ website/NN)(S (NE AWESOME/NN))(S (NE Good/NNP Deal/NNP) and/CC (NE Prompt/NNP Service/NNP))(S
+  **First/JJ
+  of/IN
+  all/DT
+  Thanks/NNP
+  Flipkart/NNP
+  for/IN
+  very/RB
+  fast/JJ
+  delivery..******/-NONE-)(S Decent/NNP product/NN)(S Probably/RB the/DT best/JJS at/IN this/DT Price/NNP)(S (NE Awesome/NNP Laptop/NNP))(S very/RB (NE Good/NNP Service/NNP) and/CC great/JJ offer/NN)(S You/PRP get/VBP exactly/RB what/WP you/PRP are/VBP promised/VBN)(S Excellent/NNP product/NN)(S (NE Fantastic/JJ) Product/NN)(S (NE Good/NNP) for/IN developers/NNS)(S (NE Good/NNP) to/TO (NE Develop/NNP Application/NNP))(S
+  (NE Efficient/NNP Money/NNP)
+  use/NN
+  with/IN
+  (Core/JJ
+  i3/NNP
+  +/NNP
+  Dell)/NNP)(S (NE Great/NNP) product/NN with/IN low/JJ price/NN)(S Best/JJS Low-Budget/JJ Laptop/NNP)(S (NE Good/NNP Design/NNP) and/CC (NE Compact/NNP))(S Its/PRP$ cool/NN)(S Best/JJS)(S (NE Good/NNP Phone/NNP))(S nothing/NN like/IN anything/NN)(S (NE Great/NNP) phone!!/NNP Buy/NNP)(S
+  (NE Huge/JJ)
+  value/NN
+  for/IN
+  money/NN
+  with/IN
+  (NE Quality/NNP)
+  in/IN
+  its/PRP$
+  class/NN)(S
+  (NE Micromax/NNP)
+  just/RB
+  rocks!/JJ
+  And/CC
+  most/JJS
+  people/NNS
+  are/VBP
+  unaware/JJ
+  of/IN
+  that..unfortunately/JJ
+  though/IN)(S (NE FULL/NNP) review/VBD after/IN 2/CD months/NNS of/IN use/NN)(S (NE Micromax/NNP) A111/NNP rocks!!!!/NNP)(S (NE Good/NNP) pick/NN for/IN the/DT price/NN)(S
+  The/DT
+  (NE Best/NNP Phone/NNP)
+  within/IN
+  10K/CD
+  in/IN
+  (NE Market/NNP))(S Pretty/RB good/JJ for/IN its/PRP$ price/NN)(S
+  Everything/NN
+  you/PRP
+  need/VBP
+  and/CC
+  find/VB
+  in/IN
+  a/DT
+  costly/JJ
+  phone/NN
+  is/VBZ
+  there/EX
+  with/IN
+  (NE Superfine/NNP)
+  quality/NN
+  in/IN
+  a/DT
+  budget/NN
+  phone/NN)(S (NE SIMPLY/RB) (NE GREAT/NNP))(S (NE Awesome/NNP Phone/NNP))(S (NE Good/NNP) have/VBP it/PRP)(S
+  Smart'er/NN
+  choice/NN
+  for/IN
+  average/JJ
+  smart/NN
+  phone/NN
+  users./NNP)(S
+  (NE Nice/NNP Smart/NNP)
+  phone/NN
+  with/IN
+  smart/NN
+  features,/-NONE-
+  I/PRP
+  Like/NNP
+  the/DT
+  screen/NN
+  size/NN
+  &/CC
+  Performance/NNP
+  is/VBZ
+  very/RB
+  good/JJ)(S Looks/NNS awesome/VBP)(S Amazingly/RB Awesome/NNP :)/:)(S Best/JJS ever/RB phone....../NNP)(S (NE Bada/NNP Hai/NNP Toh/NNP Behtar/NNP Hai/NNP) :)/NNP)(S Decent/NNP for/IN the/DT price./NNP)(S
+  (NE Purchase/NN)
+  of/IN
+  (NE Micromax/NNP Mobiles/NNP)
+  is/VBZ
+  Not/NNP
+  A/DT
+  (NE Wise/NNP Decision/NNP))(S Best/JJS less/JJR than/IN 10k/CD budget/NN phone/NN)(S
+  (NE Good/NNP Features/NNP)
+  and/CC
+  look/VB
+  but/CC
+  something/NN
+  is/VBZ
+  missing/VBG)(S (NE Better/NNP Budget/NNP) phone/NN)(S
+  (NE Micromax/NNP Canvas/NNP Doodle/NNP)
+  (NE A111/NNP)
+  -/:
+  (NE Great/NNP)
+  working/NN
+  so/IN
+  far../NNP)(S THIS/DT PRODUCT/NN (NE NEVER/NNP) LETS/NNP YOU/NNP DOWN...../NNP)(S (NE Very/NNP Good/NNP Phone/NNP))(S Excellent/NNP making/VBG !!/.)(S worthy/JJ buy/NN)(S OH/UH MY/NNP GOD/NNP)(S (NE AWESOME/NN) (NE PHONE/NN))(S Best/JJS Mobile/NNP for/IN best/JJS price./NNP)(S (NE Great/NNP Buy/NNP))(S Best/JJS (NE Device/NNP) -/: (NE Value/NNP) for/IN money/NN)(S So/IN Far/RB So/RB Good!!!!/JJ)(S
+  (NE Awesome/NNP Phone/NNP)
+  to/TO
+  use/VB
+  for/IN
+  day/NN
+  to/TO
+  day/NN
+  usage/NN
+  :-)/:)(S (NE Very/NNP) very/RB economical,go/JJ for/IN it./NNP)(S (NE Doodle/NNP) rocks!!/NNP)(S Its/PRP$ soooooooo/NN good/JJ ;/: im/NN luvin/NN it../NNP)(S A/DT Good/NNP Phone/NNP for/IN (NE Low/NNP Budget/NNP))(S excellent......../NNP)(S (NE Awesome/NNP) phone/NN in/IN this/DT price/NN range/NN)(S Best/JJS ever/RB phone/NN for/IN (NE Diligent/NNP Users/NNPS))(S excellent/NN wrt/VBD value/NN for/IN money/NN)(S Amazing/VBG phone/NN)(S Go/NNP Go/NNP Micromax!!!/NNP)(S
+  (NE Beautiful/NNP)
+  and/CC
+  (NE Awesome/NNP)
+  phone/NN
+  just/RB
+  for/IN
+  10K/CD)(S Does/VBZ this/DT stand/NN the/DT test/NN of/IN time/NN ?/.)(S I/PRP love/VBP it/PRP !!/.)(S
+  Totally/RB
+  In/IN
+  (NE Love/NNP With/NNP The/NNP Phone/NNP)
+  &/CC
+  Micromax,And/NNP
+  Flipkart/NNP
+  Hats/NNPS
+  Off/NNP
+  To/NNP
+  You/NNP)(S (NE Nice/NNP) deal/NN)(S (NE Loved/NNP) -/: (NE Narrow/NNP Escaped/NNP))(S working/VBG good/JJ)(S (NE gr8/NNP) phone/NN for/IN a/DT great/JJ price...../NNP)(S
+  Nothing/NN
+  like/IN
+  Anything/NNP
+  !/.
+  Micromax/NNP
+  your/PRP$
+  ROCK/NNP
+  !/.)(S
+  (NE Micormax/NNP Canvas/NNP Doodle/NNP)
+  (NE A111/NNP)
+  -/:
+  Mobile/NNP
+  that/IN
+  could/MD
+  satisfy/VB
+  your/PRP$
+  needs/NNS)(S A/DT thumbs/NN up/RP to/TO (NE Micromax/NNP))(S (NE Good/NNP) product/NN for/IN less/JJR money/NN)(S (NE Micromax/NNP Canvas/NNP Doodle/NNP) A111/NNP)(S (NE Awesome/NNP Phone/NNP) !!/NNP)(S its/PRP$ good...worth/JJ the/DT price/NN)(S very/RB good/JJ choice/NN under/IN 10K/CD)(S
+  (NE Micro/NNP)
+  in/IN
+  price/NN
+  Max/NNP
+  in/IN
+  (NE Quality/NNP)
+  and/CC
+  Performance/NNP)(S Above/IN average/JJ for/IN the/DT price/NN)(S
+  (NE Good/NNP Phone/NNP)
+  for/IN
+  this/DT
+  price,/NN
+  Go/NNP
+  for/IN
+  it........../NNP)(S (NE DECENT/NN Phablet/NNP) for/IN price/NN !!/:)(S
+  (NE Awesum/NNP Phone/NNP)
+  with/IN
+  little/JJ
+  scope/NN
+  of/IN
+  improvement/NN)(S A/DT good/JJ and/CC an/DT affordable/JJ product/NN)(S (NE Quite/NNP) Impressive!/NNP)(S
+  looks/NNS
+  are/VBP
+  killing!!!/JJ
+  build/NN
+  quality/NN
+  awesome!!!!!/NN)(S (NE Good/NNP) phone/NN for/IN 7000/CD bucks.../NNP)(S (NE Good/NNP) phone/NN @/: budget/NN of/IN 10k/CD)(S Too/RB good/JJ handset!/NN)

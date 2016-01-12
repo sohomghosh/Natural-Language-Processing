@@ -1,0 +1,12 @@
+(S
+  nice/NN
+  movie./NNP
+  It/NNP
+  has/VBZ
+  a/DT
+  constructive/JJ
+  idea./NNP
+  It/NNP
+  is/VBZ
+  highly/RB
+  motivating/VBG)

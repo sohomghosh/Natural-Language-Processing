@@ -1,0 +1,304 @@
+(S (NE Flipkart/NNP) forever/NN !/.)(S My/PRP$ (NE Digital/NNP Passport/NNP) to/TO Fly/NNP)(S Not/RB worth/JJ investing/NN money/NN)(S
+  A/DT
+  (NE Great/NNP Product/NNP)
+  from/IN
+  WD.../NNP
+  and/CC
+  a/DT
+  great/JJ
+  harddisk/NN
+  with/IN
+  excellent/NN
+  performance..at/JJ
+  a/DT
+  great/JJ
+  affordable/JJ
+  price.!!!/NN)(S
+  (NE WD/NNP My/NNP Passport/NNP)
+  Ultra/NNP
+  2.5/CD
+  inch/NN
+  1/CD
+  TB/NNP
+  External/NNP
+  Hard/NNP
+  Drive/NNP)(S
+  Excellent/NNP
+  external/JJ
+  hard/JJ
+  drive/JJ
+  from/IN
+  WD./NNP
+  10/10/CD
+  !!!!!!!/CD)(S WD-The/DT Best/NNP Selling/NNP External/NNP HD/NNP)(S (NE Handy/NNP) |/: Awesome/NNP)(S (NE WD/NNP) ultra/NN not/RB initilising/VBG)(S
+  (NE EXCELLENT/NN)
+  SELLER,/NN
+  EXCELLENT/NNP
+  STORE,/NNP
+  EXCELLENT/NNP
+  HDD.../NNP)(S product/NN without/IN black/JJ carry/NN case/NN)(S
+  Be/VB
+  aware/JJ
+  about/IN
+  the/DT
+  price..../NNP
+  Rest/NNP
+  its/PRP$
+  flipkart/NN
+  guys../NNP
+  Hassle/NNP
+  free/JJ
+  shopping/NN)(S
+  (NE Product/NN)
+  performance/NN
+  not/RB
+  upto/VB
+  the/DT
+  mark/NN
+  as/IN
+  of/IN
+  now/RB)(S
+  (NE Excellent/NNP)
+  Product!/NNP
+  But/CC
+  dont/NN
+  buy/NN
+  from/IN
+  (NE Flipkart/NNP))(S No/DT pouch/carrycover/NN included/VBD)(S (NE Very/NNP) slow......../NNP)(S (NE Superb/NNP))(S
+  (NE BEST/JJS)
+  (NE EXTERNAL/NNP)
+  DRIVE/NNP
+  IN/NNP
+  ITS/NNP
+  SEGMENT./NNP
+  WD/NNP
+  IS/NNP
+  THE/NNP
+  NAME/NNP
+  YOU/NNP
+  CAN/NNP
+  TRUST./NNP)(S (NE Delivery/NNP))(S (NE Awesome/NNP Product/NNP))(S An/DT excellent/NN low-cost/NN external/JJ HDD/NNP)(S Really/RB (NE Good/NNP Service/NNP))(S (NE Excellent/NNP Buy/NNP) till/NN date/NN)(S Best/JJS hard/RB drive/JJ)(S (NE Elegance/NN) personified./NNP)(S (NE Great/NNP) Product,/NNP Great/NNP Price/NNP)(S 10/CD on/IN 10/CD product/NN from/IN WD./NNP OMG/NNP)(S (NE Good/NNP) enough/RB)(S Best/JJS (NE Hard/NNP) drive/JJ of/IN all:/JJ WD/NNP 1TB/CD)(S The/DT best/JJS HDD/NNP at/IN this/DT price!!!!!/NN)(S (NE Excellent/NNP) product./NNP)(S
+  (NE WD/NNP My/NNP Passport/NNP)
+  Ultra,/NNP
+  a/DT
+  nice/JJ
+  VFM/NNP
+  product/NN)(S
+  (NE Good/NNP Value/NNP For/NNP)
+  Money./NNP
+  Impressive/NNP
+  delivery/NN
+  from/IN
+  Flipkart./NNP)(S (NE Great/NNP Delivery/NNP) Time/NNP &/CC Product/NNP)(S Best/JJS Product/NN in/IN (NE Its/NNP Class/NNP))(S
+  (NE Good/NNP)
+  economical/JJ
+  choice./NNP
+  Good/NNP
+  service/NN
+  by/IN
+  Flipkart./NNP)(S My/PRP$ second/JJ WD/NNP passport/NN)(S (NE Excellent/NNP Hard/NNP Drive/NNP))(S
+  (NE AFFORDABILITY/NN AND/CC)
+  (NE USABILITY/NNP)
+  NEVER/NNP
+  HAD/NNP
+  SUCH/NNP
+  AN/NNP
+  (NE BRILLIANT/NNP)
+  COMBINATION./NNP)(S (NE Gr8/NNP) price/NN (NE Gr8/NNP) product/NN)(S
+  Best/JJS
+  External/NNP
+  Hard/NNP
+  Drive/NNP
+  with/IN
+  (NE Auto/NNP Cloud/NNP)
+  and/CC
+  (NE Backup/NNP))(S (NE Good/NNP Call/NNP) buying/NN this!/-NONE-)(S Redefining/VBG (NE External/NNP Storages/NNP))(S
+  Unreliable/JJ
+  product(Hopefully/RB
+  yours/VBZ
+  will/MD
+  work/VB
+  for/IN
+  more/JJR
+  than/IN
+  two/CD
+  months)/JJ)(S
+  Its/PRP$
+  a/DT
+  Grab/NNP
+  of/IN
+  the/DT
+  new/JJ
+  year....only/JJ
+  on/IN
+  flipkart...../NNP)(S Guys/NNS u/VBP must/MD read/VB this/DT review/NN)(S
+  A/DT
+  (NE Great/NNP)
+  harddisk/NN
+  with/IN
+  excellent/NN
+  performance..at/JJ
+  an/DT
+  affordable/JJ
+  price/NN)(S
+  (NE Good/NNP)
+  deal/NN
+  if/IN
+  you/PRP
+  can/MD
+  get/VB
+  it/PRP
+  at/IN
+  a/DT
+  good/JJ
+  price./NNP)(S (NE Good/NNP Product/NNP))(S One/CD of/IN the/DT Price/NNP worthy/JJ HDD/NNP)(S (NE Excellent/NNP Flipkart/NNP) Service,/NNP Product/NNP OK/NNP)(S My/PRP$ Passport/NNP Ultra/NNP)(S Nice,/NN Handy/NNP drive/VBP)(S (NE Great/NNP) Experince,Wd/NNP Simply/NNP Rocks.........../NNP)(S Amazing/VBG Drive./NNP Cool,/NNP Quite/NNP and/CC Cute./NNP)(S Amazing/VBG product/NN but/CC no/DT pouch/JJ)(S
+  (NE WD/NNP My/NNP Passport/NNP)
+  Ultra/NNP
+  2.5/CD
+  inch/NN
+  1/CD
+  TB/NNP
+  External/NNP
+  Hard/NNP
+  Drive-Best/NNP
+  Of/NNP
+  All/NNP)(S (NE Awesome/NNP Product/NNP) and/CC (NE Awesome/NNP Delivery/NNP))(S (NE Worst/NNP Ever/NNP) experience/NN with/IN (NE Flipkart/NNP))(S sleek/NN and/CC stylish/JJ)(S (NE Excellent/NNP) produt/VBD !!!!!/NNP)(S (NE Fantastic/JJ) Product!!!/NN)(S
+  HP/NNP
+  15-D005TU/CD
+  Laptop/NNP
+  :/:
+  Excellent/NNP
+  Laptop/NNP
+  at/IN
+  this/DT
+  Price/NNP)(S
+  (NE Good/NNP Laptop/NNP)
+  with/IN
+  (NE HP/NNP)
+  support/NN
+  center/NN
+  for/IN
+  within/IN
+  Rs/NNPS
+  32,000/CD
+  range,/-NONE-
+  hpwever/RB
+  wifi/VB
+  drivers/NNS
+  could/MD
+  coz/VB
+  issues./NNP)(S (NE Good/NNP Product/NNP))(S Not/RB a/DT good/JJ choice/NN)(S (NE Excellent/NNP) product../NNP)(S
+  (NE Good/NNP)
+  product/NN
+  but/CC
+  beware/NN
+  of/IN
+  the/DT
+  offers/NNS
+  listed/VBN)(S
+  HP/NNP
+  15-D005TU/CD
+  -/:
+  great/JJ
+  laptop/NN
+  at/IN
+  a/DT
+  very/RB
+  reasonable/JJ
+  price./NNP)(S (NE Pathetic/JJ Service/NNP) from/IN (NE Flipkart/NNP))(S this/DT just/RB wow/VBP)(S (NE Product/NN Price/NNP) is/VBZ not/RB worth/JJ)(S (NE Awesome/NNP Product/NNP))(S Not/RB too/RB good/JJ quality/NN)(S excellent/NN laptop/NN for/IN daily/JJ use/NN)(S (NE Awesome/NNP) device/NN)(S Windows/NNS 8/CD not/RB properly/RB installed/VBN)(S
+  Pricing/VBG
+  Issue/NNP
+  by/IN
+  (NE Seller/NNP)
+  -/:
+  (NE WS/NNP Retail/NNP))(S Best/JJS product/NN at/IN its/PRP$ price/NN)(S (NE Worst/NNP Product/NNP No/NNP) speed/VBD)(S (NE Good/NNP))(S good/JJ deal/NN)(S Best/JJS Product/NN)(S a/DT good/JJ one/CD)(S great/JJ)(S superbbb/NN)(S (NE Value/NNP) for/IN money-Decent/JJ Laptop/NNP)(S (NE WORST/NNP) PRODUCT,/NNP NO/NNP WARRANTY/NNP)(S (NE GOOD/NNP) LAPTOP/NNP)(S (NE Good/NNP) laptop/NN withing/VBG 35k/CD range/NN)(S Worth/NNP the/DT price/NN)(S (NE Value/NNP) for/IN money-Decent/JJ Laptop/NNP)(S (NE WORST/NNP) PRODUCT,/NNP NO/NNP WARRANTY/NNP)(S (NE GOOD/NNP) LAPTOP/NNP)(S (NE Good/NNP) laptop/NN withing/VBG 35k/CD range/NN)(S Worth/NNP the/DT price/NN)(S Excellent/NNP)(S
+  Its/PRP$
+  very/JJ
+  good/JJ
+  laptop,buy/JJ
+  it/PRP
+  only/RB
+  at/IN
+  flipkart/NN
+  because/IN
+  flipkart/NN
+  sellers/NNS
+  provides/VBZ
+  genuie/NN
+  products/NNS)(S (NE Battery/NNP) back/VBD up/RP and/CC display/NN)(S awesome/NN product/NN)(S Worth/NNP the/DT price/NN)(S
+  100/CD
+  reasons/NNS
+  why/WRB
+  you/PRP
+  should/MD
+  not/RB
+  buy/VB
+  lenovo/RB
+  products/NNS)(S (NE Great/NNP Delivery/NNP Service/NNP))(S
+  (NE Good/NNP)
+  Laptop..flipkart/NN
+  service/NN
+  is/VBZ
+  not/RB
+  up/IN
+  to/TO
+  the/DT
+  mark./NNP)(S
+  I/PRP
+  have/VBP
+  not/RB
+  received/VBN
+  the/DT
+  freebie/NN
+  lenovo/NN
+  back/RB
+  pack/NN)(S
+  Does/VBZ
+  this/DT
+  have/VBP
+  (NE Intel/NNP)
+  HD/NNP
+  4600/CD
+  graphics?/-NONE-)(S Excellent/NNP)(S (NE Awesome/NNP) laptop/VBP)(S (NE Good/NNP Product/NNP))(S A/DT (NE Great/NNP) Deal..:)/NNP)(S great/JJ BASS!/NN)(S Got/NNP what/WP i'v/-NONE- been/VBN looking/VBG for.../NNP)(S (NE Amazed/JJ))(S
+  (NE Great/NNP Headphones/NNP)
+  from/IN
+  (NE PHILIPS/NNP)
+  at/IN
+  unbeatable/JJ
+  price/NN)(S Fabulous/JJ For/IN its/PRP$ price!!/JJ)(S Read/NNP THIS/DT before/IN you/PRP Buy!/-NONE-)(S (NE Great/NNP) headphone,/NNP with/IN some/DT problems./NNP)(S (NE Great/NNP) Headphones...Worth/JJ its/PRP$ value.!/JJ)(S Marvellous/JJ)(S Musically/RB yours/VBZ !!!!!/.)(S Decent/NNP buy/NN as/IN per/NN price...:-)/NN)(S (NE Good/NNP) Sound,/NNP Cheap/NNP Build/NNP)(S
+  (NE Awesom/NNP Headphone/NNP With/NNP)
+  (NE GREAT/NNP)
+  BASS!!!!!!!!!!(Rocking..)/NNP)(S Probably/RB the/DT best/JJS in/IN its/PRP$ price/NN range/NN)(S
+  (NE Crystal/NNP Clear/NNP Sound/NNP)
+  yet/RB
+  cheap/VB
+  as/IN
+  a/DT
+  pizza!/NN)(S Decent/NNP pair/PRP$ of/IN (NE Headphones/NNP))(S (NE Very/NNP Very/NNP) good/JJ product/NN)(S
+  (NE Superb/NNP)
+  Bass!/NNP
+  Comfortable./NNP
+  Can/NNP
+  use/NN
+  for/IN
+  mobile/JJ
+  phones/NNS
+  too!/-NONE-)(S (NE YAyyyy/NNP) \m//NNP :D/NNP)(S Excellent/NNP product/NN for/IN this/DT price!!!!/NN)(S Wow,/NN this/DT one/CD surprised/VBD me./NNP)(S (NE AWESOME/NN) HEADPHONES!!!/NN)(S
+  Works/NNS
+  well/RB
+  with/IN
+  (NE Toshiba/NNP)
+  laptop/NN
+  and/CC
+  (NE Nokia/NNP)
+  cell/NN)(S
+  Best/JJS
+  Deal/NNP
+  you/PRP
+  can/MD
+  get/VB
+  at/IN
+  this/DT
+  Price/NNP
+  Range/NNP
+  !!/NNP)(S I/PRP got/VBD a/DT great/JJ deal...Yippieee......../NNP)

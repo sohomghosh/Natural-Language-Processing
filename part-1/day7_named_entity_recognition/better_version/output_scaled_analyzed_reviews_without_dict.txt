@@ -1,0 +1,3 @@
+score: 1;    scaled score: 5.0
+
+ TOTAL words 1; scaled score:5.0

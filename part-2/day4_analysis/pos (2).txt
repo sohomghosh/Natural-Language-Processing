@@ -1,0 +1,21 @@
+import nltk
+filename="20.txt"#input file
+fp=open(filename,'r')
+line=fp.readline()
+#i=0
+while True:
+    line=fp.readline()
+    if not line:
+        break
+    #print line
+    token=line.strip().split(' ')
+    a=nltk.pos_tag(token)
+    print a
+    #i=i+1
+    for i in range(0,len(a)):
+        q=a[i][1]
+        if q=='RBS' or q=='RBR' or q=='RB' or q=='JJS' or q=='JJR' or q=='JJ':
+            reqword=    a[i][0]
+            #break
+    #print a[0][1]
+#print i

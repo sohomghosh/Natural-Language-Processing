@@ -1,0 +1,1 @@
+idea.. here we will see users having the same rating for titles. We can say they will use similar words in their reviews. We can recommends them such word while writing the reviews.

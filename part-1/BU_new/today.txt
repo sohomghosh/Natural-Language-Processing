@@ -1,0 +1,202 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include <time.h>
+int *A;
+void merge_sort(int A[], int p,int r);
+void rand_quick_sort(int A[], int p, int r );
+//void population(int A[], int n);
+//void random_distinct_nos(int n);
+void random_num_generator(int *arr, int n);
+void merge(int A[], int p, int q, int r);
+void quick_sort(int A[],int p, int r);
+int main ()
+{
+		int ch; int n; int p,r; p=0; int i=0; r=0;
+		time_t start, end; double time_req;
+		do
+		{
+			printf("enter choice 1-merge_sort 2-quick_sort 3-randomized_quick-sort 4-exit");
+			scanf("%d", &ch);
+			if(ch==1)
+			{
+				printf("enter n i.e. no of times u wanna compute");
+				scanf("%d",&n);
+				A=(int *)calloc(n,sizeof(int));
+				random_num_generator(A,n);
+				for(i=0;i<10;i++)
+				printf("%d \n",A[i]);
+				start=clock();
+				merge_sort(A,0,n-1);
+				end=clock();
+				time_req=(end-start)/CLOCKS_PER_SEC;
+				for(i=0;i<10;i++)
+				printf("%d \n",A[i]);
+				printf("time reqd to sort %d nos by nerge sort is %lf",n,time_req);
+				free(A);
+			}
+			else if(ch==2)
+			{
+				printf("enter n i.e. no of times u wanna compute");
+				scanf("%d",&n);
+				A=(int *)calloc(n,sizeof(int));
+				random_distinct_nos(n);
+				start=clock();
+				quick_sort(A,0,n-1);
+				end=clock();
+				time_req=(end-start)/CLOCKS_PER_SEC;
+				free(A);
+			}
+			else if(ch==3)
+			{
+				printf("enter n i.e. no of times u wanna compute");
+				scanf("%d",&n);
+				A=(int *)calloc(n,sizeof(int));
+				random_distinct_nos(n);
+				start=clock();
+				rand_quick_sort(A,0,n-1);
+				end=clock();
+				time_req=(end-start)/CLOCKS_PER_SEC;
+				free(A);
+			}	
+			else if(ch==4)
+			{
+				break;
+			}
+			else
+			{
+				printf("Invalid choice");
+			}
+		}while(ch!=4);
+		return 0;
+}
+int partition(int A[], int p, int r)
+{
+	int x,i,j; int temp;
+	x=A[r];
+	i=p-1;
+	for(j=p;j<=r-1;j++)
+	{
+		if(A[j]<=x)
+		{
+			i=i+1;
+			temp=A[i];
+			A[j]=temp;
+		}
+	}
+	temp=A[i+1];
+	A[i+1]=A[r];
+	A[r]=temp;
+	return (i+1);
+}
+void merge_sort(int A[],int p, int r)
+{
+	int q;
+	if(p<r)
+	{
+		q=(p+r)/2;
+		merge_sort(A,p,q);
+		merge_sort(A,q+1,r);
+		merge(A,p,q,r);
+	}
+}
+void merge(int A[], int p, int q, int r)
+{
+	int n1, n2; int *l, *rr; int i,j,k;
+	n1=q-p+1;
+	n2=r-q;
+	l=malloc(n1*sizeof(int*));
+	rr=malloc(n2*sizeof(int*));
+	for(i=1;i<=n1;i++)
+	{
+		l[i]=A[p+i-1];
+	}
+	for(j=1;j<=n2;j++)
+	{
+		rr[j]=A[q+j];
+	}
+	l[n1+1]=999999;
+	rr[n2+1]=99999;
+	i=1;
+	j=1;
+	for(k=p;k<=r;k++)
+	{
+		if(l[i]<=rr[j])
+		{
+			A[k]=l[i];
+			i=i+1;
+		}
+		else
+		{
+			A[k]=rr[j];
+			j=j+1;
+		}
+	}
+}
+/*void random_distinct_nos(int n)
+{
+	FILE *fp;
+	int num[n];int  i=0;//num=(int*)calloc(n,sizeof(int));
+	fp=fopen("random file.txt","a");
+	if(fp==NULL)
+	exit(0);
+	random_num_generator(num,n);
+	while(i<n)
+	{
+		fprintf(fp,"%d",num[i]);
+		fprintf(fp,"\n");
+		//printf("%d\n",num[i]);
+		i++;
+	}
+	fclose(fp);
+}*/
+void random_num_generator(int A[], int n)
+{
+	int i=0, check,j,a; 
+	srand(time(NULL));
+//	*arr=rand()%n;
+	while(i<n)
+	{
+		check=0;
+		a=rand()%n;
+	for(j=0;j<i;j++)
+	{
+		if(A[j]==a)
+		{
+			check=1; break;
+		}
+	}
+	if(check==0)
+	{
+		A[i]=a;
+		i++;
+	}
+	}
+}
+void rand_quick_sort(int A[], int p, int r )
+{
+	int i=(p+rand())%r;int temp;
+	temp=A[p];
+	A[p]=A[i];
+	A[i]=temp;
+	partition(A,p,r); 
+}
+void quick_sort(int A[], int p, int r)
+{
+	int q;
+	if(p<=r)
+	{
+		q=partition(A,p,r);
+		quick_sort(A,p,q-1);
+		quick_sort(A,q+1,r);
+	}
+}
+/*void population(int A[], int n)
+{
+	int i=0;
+	FILE *fp;
+	fp=fopen("random.txt","r");
+	while(fscanf(fp,"%d  ",&A[i++])!=EOF)
+	{
+	}
+}*/

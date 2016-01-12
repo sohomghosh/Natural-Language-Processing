@@ -1,0 +1,8 @@
+INPUT:
+whole_review.txt
+
+Supproting files: 
+new_neg_complete_tokenized_with_stopwords-removed_and_stemming_done.txt
+new_pos_complete_tokenized_with_stopwords-removed_and_stemming_done.txt
+
+Final Output: analyzed_whole_review_without_dict_new_score32.txt
